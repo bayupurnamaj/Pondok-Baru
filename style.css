@@ -6,6 +6,7 @@
   --bg: #0a0a0a;
   --shadow: 0 2px 2px rgb(0 0 0 /0.5);
 }
+
 body {
   font-size: 1.2rem;
   font-family: "Noto Serif", serif;
@@ -115,8 +116,8 @@ body {
   color: var(--satu);
 }
 .about .couple img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 .program,
 .donasi {

@@ -1,0 +1,39 @@
+body {
+  background-image: none !important;
+}
+.isi-web header span {
+  font-size: 1.8rem;
+}
+.isi-web header h1 {
+  font-size: 2.2rem;
+}
+.isi-web header i {
+  color: rgba(90, 87, 87, 0.616);
+}
+
+.isi-web header .mangsa,
+.isi-web header .titi {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.isi-web .artikel .fnote {
+  font-size: 0.6rem;
+  position: absolute;
+  margin-left: -0.3rem;
+  margin-top: -0.3rem;
+  text-decoration: none;
+}
+
+.isi-web article .footnote {
+  border-top: 1px solid #00000021;
+  color: #7a7a7a;
+  font-size: 0.9rem;
+}
+
+article .footnote ul {
+  list-style: none;
+}
+article .footnote li {
+  margin-bottom: 0.7rem;
+}

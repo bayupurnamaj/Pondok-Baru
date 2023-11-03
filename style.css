@@ -395,7 +395,7 @@ footer li {
 /* Tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 65%;
+    font-size: 70%;
   }
   .simply-countdown > .simply-section {
     padding: 60;
@@ -423,7 +423,7 @@ footer li {
 /* Mobilephone */
 @media (max-width: 576px) {
   html {
-    font-size: 55%;
+    font-size: 65%;
   }
 
   .timeline li .timeline-image {

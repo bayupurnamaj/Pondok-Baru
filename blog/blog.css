@@ -32,3 +32,12 @@
 .isi-web {
   padding: 8rem 0;
 }
+
+.post-besar .img-container {
+  max-height: 350px;
+  max-width: 850px;
+}
+.post-besar .img-container img {
+  width: 100%;
+  height: auto;
+}

@@ -104,7 +104,6 @@ body {
   margin-bottom: 1rem;
 }
 .about p {
-  font-size: 1.1rem;
   color: #666;
 }
 .about .couple {
@@ -154,7 +153,6 @@ body {
 .donasi .card-body,
 .program .card-body {
   padding: 3rem;
-  font-size: 1rem;
 }
 .donasi .card-body i,
 .program .card-body i {
@@ -202,7 +200,6 @@ body {
 .daftar p,
 .gallery p,
 .gift p {
-  font-size: 1rem;
   font-weight: 300;
 }
 
@@ -423,7 +420,7 @@ footer li {
 /* Mobilephone */
 @media (max-width: 576px) {
   html {
-    font-size: 75%;
+    font-size: 80%;
   }
 
   .timeline li .timeline-image {
